@@ -17,12 +17,9 @@ const operatorMap = {
     "multiply": "×",
     "divide": "÷",
     "hhhhhh": "5879",
-    "blabla": "123",
     "minus": "−",
     "add": "+"
 };
-
-console.log(operatorMap);
 
 let currentValue = "";            // what's being typed now
 let tokens = [];                  // ["6", "+", "5", "-", "7"]

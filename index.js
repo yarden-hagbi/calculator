@@ -17,6 +17,7 @@ const operatorMap = {
     "multiply": "×",
     "divide": "÷",
     "hhhhhh": "5879",
+    "blabla": "123",
     "minus": "−",
     "add": "+"
 };

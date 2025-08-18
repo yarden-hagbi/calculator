@@ -21,7 +21,7 @@ const operatorMap = {
     "add": "+"
 };
 
-
+console.log(operatorMap);
 
 let currentValue = "";            // what's being typed now
 let tokens = [];                  // ["6", "+", "5", "-", "7"]

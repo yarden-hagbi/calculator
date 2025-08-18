@@ -16,6 +16,7 @@ document.querySelector(".keypad").addEventListener("click", (e) => {
 const operatorMap = {
     "multiply": "×",
     "divide": "÷",
+    "hhhhhh": "5879",
     "minus": "−",
     "add": "+"
 };

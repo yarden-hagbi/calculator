@@ -21,6 +21,8 @@ const operatorMap = {
     "add": "+"
 };
 
+
+
 let currentValue = "";            // what's being typed now
 let tokens = [];                  // ["6", "+", "5", "-", "7"]
 let lastAction = "number";        // "number" | "operator" | "equals" | "control"

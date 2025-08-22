@@ -22,6 +22,7 @@ const operatorMap = {
     "sin": "sin",
     "cos": "cos",
     "tan": "tan",
+    "bla": "bla",
     "add": "+"
 };
 

@@ -17,12 +17,6 @@ const operatorMap = {
     "multiply": "×",
     "divide": "÷",
     "minus": "−",
-    "sqrt": "√",
-    "power": "²",
-    "sin": "sin",
-    "cos": "cos",
-    "tan": "tan",
-    "bla": "bla",
     "add": "+"
 };
 

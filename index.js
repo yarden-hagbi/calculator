@@ -19,6 +19,7 @@ const operatorMap = {
     "minus": "−",
     "sqrt": "√",
     "power": "²",
+    "bla": "bla",
     "add": "+"
 };
 

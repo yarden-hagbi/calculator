@@ -19,6 +19,9 @@ const operatorMap = {
     "minus": "−",
     "sqrt": "√",
     "power": "²",
+    "sin": "sin",
+    "cos": "cos",
+    "tan": "tan",
     "bla": "bla",
     "add": "+"
 };
